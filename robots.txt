@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /test/
+Allow: /
+Disallow: /assets/
+Disallow: /mailer.php
+
+User-agent: Googlebot-Image
+Allow: /assets/img/
+Disallow: /test/
+Allow: /
+Disallow: /assets/
+
